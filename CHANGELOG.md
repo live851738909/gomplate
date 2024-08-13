@@ -1,5 +1,18 @@
 # Change Log
 
+## [4.1.1](https://github.com/hairyhenderson/gomplate/compare/v4.1.0...v4.1.1) (2024-08-13)
+
+
+### Dependencies
+
+* **actions:** Bump docker/setup-buildx-action from 3.4.0 to 3.6.1 ([#2198](https://github.com/hairyhenderson/gomplate/issues/2198)) ([71f53aa](https://github.com/hairyhenderson/gomplate/commit/71f53aa08871e2da51d5739738dadf3ff10f552d))
+* **go:** Bump github.com/aws/aws-sdk-go from 1.54.15 to 1.54.16 ([#2172](https://github.com/hairyhenderson/gomplate/issues/2172)) ([19cd050](https://github.com/hairyhenderson/gomplate/commit/19cd050be438f9d407800725f16139d8a5f86624))
+* **go:** Bump github.com/aws/aws-sdk-go from 1.54.16 to 1.55.5 ([#2200](https://github.com/hairyhenderson/gomplate/issues/2200)) ([6cdc97d](https://github.com/hairyhenderson/gomplate/commit/6cdc97ddce3037e8949ce40450dbc7c4d11ff754))
+* **go:** Bump golang.org/x/sys from 0.22.0 to 0.24.0 ([#2209](https://github.com/hairyhenderson/gomplate/issues/2209)) ([9900424](https://github.com/hairyhenderson/gomplate/commit/9900424a1279fdf135d161779060837ab66ad5ed))
+* **go:** Bump golang.org/x/text from 0.16.0 to 0.17.0 ([#2207](https://github.com/hairyhenderson/gomplate/issues/2207)) ([9ab0fc9](https://github.com/hairyhenderson/gomplate/commit/9ab0fc9cee3082bb2ec5da769e818f2cb954518e))
+* **go:** Bump google.golang.org/grpc in the go_modules group ([#2175](https://github.com/hairyhenderson/gomplate/issues/2175)) ([836cbf0](https://github.com/hairyhenderson/gomplate/commit/836cbf0de4a77c052e976572c41450ab0e3e7966))
+* **go:** Bump k8s.io/client-go from 0.30.2 to 0.30.3 ([#2183](https://github.com/hairyhenderson/gomplate/issues/2183)) ([e13e016](https://github.com/hairyhenderson/gomplate/commit/e13e0165eac70568c074b41cad599d17ca1c29c0))
+
 ## [4.1.0](https://github.com/hairyhenderson/gomplate/compare/v4.0.1...v4.1.0) (2024-07-06)
 
 
